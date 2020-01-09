@@ -1,4 +1,7 @@
 Welcome to git Hello world
 
+feature1 -login
 
-welcomer to git feature to 1 to loginceqa
+feature1 -logout
+
+welcomer to git feature to 1 to logincewvfdacaddfwef

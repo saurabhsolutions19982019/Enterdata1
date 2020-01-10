@@ -4,4 +4,6 @@ feature1 -login
 
 feature1 -logout
 
+bug1 - fixed
+
 welcomer to git feature to 1 to logincewvfdacaddfwef

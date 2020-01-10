@@ -6,4 +6,8 @@ feature1 -logout
 
 bug1 - fixed
 
-welcomer to git feature to 1 to logincewvfdacaddfwef
+seffconf branch is fixed
+cfefefc branch is not fixeed
+
+welcome
+welcome to java r to git feature to 1 to logincewvfdacaddfwef
